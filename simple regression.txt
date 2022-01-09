@@ -1,0 +1,11 @@
+1) Delivery_time -> Predict delivery time using sorting time 
+2) Salary_hike -> Build a prediction model for Salary_hike
+
+------------------------------------------------------------
+
+Build a simple linear regression model by performing EDA and do necessary transformations and select the best model using R or Python.
+
+
+Inference:
+Among the given 2 models, the best model is DElivery_time,since difference between delivery time and sorting time is very less.
+whereas, in salary hike the difference between years of experience and salary hike is too large
